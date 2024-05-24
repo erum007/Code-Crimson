@@ -1,0 +1,9 @@
+[50, 63, 3070, 202, 30, 60, 980]
+If 20 is inserted in the tree, would the node be red?
+If 4000 is inserted in the tree, would the node be black?
+Suppose 980 is deleted from the tree, and 3070 takes its place, is it true that it's colour doesn't change?
+Suppose 60 is deleted from the tree, is it true that its parent is impacted?
+Yes
+No
+No
+No

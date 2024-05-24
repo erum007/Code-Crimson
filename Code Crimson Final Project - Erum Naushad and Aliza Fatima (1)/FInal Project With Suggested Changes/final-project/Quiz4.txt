@@ -1,0 +1,9 @@
+[505, 130, 670, 230, 404, 60, 660]
+If 148 is inserted in the tree, would the node be red?
+If 540 is inserted in the tree, would the node be black?
+Suppose 60 is deleted from the tree, so will its parent be unaffected?
+Suppose 230 is deleted from the tree, and 130 takes its place, is it true that 404's colour changes?
+Yes
+Yes
+No
+Yes

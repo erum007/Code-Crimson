@@ -1,0 +1,9 @@
+[550, 630, 770, 820, 490, 960, 280]
+If 760 is inserted in the tree, would the node be red?
+If 540 is inserted in the tree, would the node be black?
+Suppose 820 is deleted from the tree, and 770 takes its place, is it true that its colour doesn't change?
+Suppose 490 is deleted from the tree, and 550 takes its place, is it true that its colour changes?
+Yes
+No
+No 
+Yes

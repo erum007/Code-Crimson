@@ -1,0 +1,9 @@
+[4, 34, 3, 22, 340, 605, 2]
+If 32 is inserted in the tree, would the node be red?
+If 9 is inserted in the tree, would the node be black?
+Suppose 34 is deleted from the tree, and 340 takes its place, is it true that 605's colour doesn't change?
+Suppose 340 is deleted from the tree, and 605 takes its place, is it true that it's colour changes?
+Yes
+No
+Yes
+No
